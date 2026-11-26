@@ -6,6 +6,18 @@ A personal travel tracker for Android. RoamTrail records where you go, clears a 
 
 This page has the app's downloads, release notes and privacy policy. The app is not on Google Play.
 
+**For ages 18 and over.** The terms of service are shown in the app, on the first screen and in Settings > About. Starting the app means you agree to them.
+
+## What it does
+
+- **Fog map:** clears along the path you travel, in a choice of map styles.
+- **Journeys:** driving, walking and train or metro, each with a vehicle where it applies. The guess can be wrong, and you can correct it.
+- **Cities:** add a city and see how much of its roads and railway lines you have covered.
+- **Heat and home zones:** see which roads you use most; home zones stay hidden from it.
+- **Timeline:** by day, month and year, with route replay and trips.
+- **Fuel log:** fills, mileage and cost per km, with receipt scanning on the phone.
+- **Languages:** English, Tamil and Hindi, with light and dark themes.
+
 ## Install
 
 1. Open **[Releases](../../releases/latest)** on your Android phone and download `RoamTrail-<version>.apk`.
