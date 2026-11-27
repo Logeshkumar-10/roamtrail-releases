@@ -1,6 +1,6 @@
 # RoamTrail privacy policy
 
-Last updated: 26 November 2026.
+Last updated: 27 November 2026.
 
 ## Who we are
 
@@ -38,7 +38,7 @@ Only to run the app's own features: drawing your trips and fog map, working out 
 
 Your data stays until you delete it. To save space, journeys older than 3 months that are not part of a saved trip are automatically reduced: a simplified route and the journey's totals are kept, and the finer detail is removed, also from later backups. You can change the period, or keep everything, in Settings > Storage > Detailed history. Backup files stay in your drive until you delete them.
 
-You can stop recording at any time. Settings > Backup > Delete my data removes everything from the phone, and, if you choose, from your drive.
+You can stop recording at any time. Settings > Storage > Delete my data removes everything from the phone, and, if you choose, from your drive.
 
 ## What leaves the phone
 
